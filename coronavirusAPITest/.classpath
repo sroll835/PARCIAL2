@@ -53,3 +53,10 @@
 	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
+<head>
+    Covid 19
+</head>
+<attributes>
+    <attribute name="optional" value="false"/>
+    <attribute name="enum" value="false"/>
+</attributes>
